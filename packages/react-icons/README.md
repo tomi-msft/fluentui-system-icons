@@ -54,7 +54,7 @@ import {
     iconFilledClassName,
     iconRegularClassName
 } from "@fluentui/react-icons";
-import { makeStyles } from "@fluentui/react-make-styles";
+import { makeStyles } from "@griffel/react";
 
 
 const iconStyleProps: FluentIconsProps = {
